@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, eu sou o Guilherme Neris</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Apaixonado por ciência e análise de dados</h3>
 
 - 🌱 Atualmente estou aprendendo **Python e Machine learning**
 
