@@ -26,13 +26,13 @@
 </p>
 
 <p align="left">
-  <a href="#" title="Gmail">
+  <a href="guiatneris@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white&link=guiatneris@gmail.com" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/guiatneris/" title="LinkedIn">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/guiatneris/" alt="LinkedIn"/></a>
-  <a href="#" title="WhatsApp">
+  <a href="https://wa.me/13996650092" title="WhatsApp">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white&link=https://wa.me/13996650092" alt="WhatsApp"/></a>
-  <a href="#" title="Instagram">
+  <a href="https://www.instagram.com/nerisz_/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/nerisz_/" alt="Instagram"/></a>
 </p>
 
