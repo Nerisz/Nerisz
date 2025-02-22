@@ -19,6 +19,7 @@
 💼 Ferramentas:    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white" width="120">
                   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white">
                   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
+                  <img src="https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE">
 </p>
 
 <p align="left">
