@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
   ### Olá, Eu sou Guilherme Neris! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="27">
-  Sou desenvolvedor <strong>Fullstack</strong>. Cursando o 3° semestre, de Ciência da Computação. Adoro criar e desenvolver aplicativos Mobile!
+  Sou desenvolvedor <strong>Fullstack</strong>. Cursando o 3° semestre, de ADS. Adoro criar e desenvolver aplicativos Mobile!
 
 <p align="left">
    🦄 Linguagens: <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
